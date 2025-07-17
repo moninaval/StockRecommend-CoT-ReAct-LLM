@@ -1,0 +1,11 @@
+langchain
+langchain-openai
+langsmith
+python-dotenv
+yfinance
+pandas
+pandas-ta
+duckduckgo-search
+transformers
+torch
+textblob
