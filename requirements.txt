@@ -5,7 +5,9 @@ python-dotenv
 yfinance
 pandas
 pandas-ta
-duckduckgo-search
+ddgs
 transformers
 torch
 textblob
+numpy==1.26.4
+scipy

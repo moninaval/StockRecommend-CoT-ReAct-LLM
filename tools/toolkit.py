@@ -1,8 +1,8 @@
 from langchain.agents import Tool
 from .screener import get_stocks_by_market_cap
-from .fundamentals import fetch_fundamentals
-from .technicals import fetch_technical_indicators_enhanced
-from .sentiment import fetch_news_sentiment_enhanced
+from .fundamentals_api import fetch_fundamentals
+from .technicals_analyzer import fetch_technical_indicators_enhanced
+from .sentiment_analyzer import fetch_news_sentiment_enhanced
 
 tools = [
     Tool(

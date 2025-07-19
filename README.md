@@ -18,3 +18,4 @@ Run the agent from the command line:
 
 ```sh
 python main.py "Find the top 5 mid-cap stocks with strong growth potential."
+python main.py "recommend INFY"
